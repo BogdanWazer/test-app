@@ -1,0 +1,5 @@
+{
+  "name": "BannerAI: High-Quality Ad Generator",
+  "description": "Generate professional banner ads in standard sizes from product descriptions and URLs using Gemini 3 Pro Image Preview.",
+  "requestFramePermissions": []
+}
